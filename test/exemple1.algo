@@ -1,0 +1,4 @@
+PROGRAMME()
+DEBUT
+	(12+3)*4 - 7/2*(1-8)
+FIN
